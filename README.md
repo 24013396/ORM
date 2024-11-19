@@ -43,7 +43,8 @@ class loanAdmin(admin.ModelAdmin):
 ## OUTPUT
 
 ![alt text](<Screenshot 2024-10-28 144654.png>)
-![Uploading Screenshot 2024-10-29 144808.png…]()
+![Screenshot 2024-11-19 122505](https://github.com/user-attachments/assets/6649bd22-2110-43c4-882d-42019a2caffd)
+
 
 
 ## RESULT
